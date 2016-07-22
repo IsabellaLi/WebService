@@ -1,0 +1,5 @@
+c:\users\administrator.tfstrain\documents\visual studio 2012\Projects\WebService2\WebService2\bin\WebService2.dll
+c:\users\administrator.tfstrain\documents\visual studio 2012\Projects\WebService2\WebService2\bin\WebService2.pdb
+c:\users\administrator.tfstrain\documents\visual studio 2012\Projects\WebService2\WebService2\obj\Debug\WebService2.csprojResolveAssemblyReference.cache
+c:\users\administrator.tfstrain\documents\visual studio 2012\Projects\WebService2\WebService2\obj\Debug\WebService2.dll
+c:\users\administrator.tfstrain\documents\visual studio 2012\Projects\WebService2\WebService2\obj\Debug\WebService2.pdb
