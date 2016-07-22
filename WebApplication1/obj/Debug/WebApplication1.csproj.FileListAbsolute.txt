@@ -1,0 +1,5 @@
+c:\users\administrator.tfstrain\documents\visual studio 2012\Projects\WebServiceTimeoutTest\WebApplication1\bin\WebApplication1.dll
+c:\users\administrator.tfstrain\documents\visual studio 2012\Projects\WebServiceTimeoutTest\WebApplication1\bin\WebApplication1.pdb
+c:\users\administrator.tfstrain\documents\visual studio 2012\Projects\WebServiceTimeoutTest\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\administrator.tfstrain\documents\visual studio 2012\Projects\WebServiceTimeoutTest\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\administrator.tfstrain\documents\visual studio 2012\Projects\WebServiceTimeoutTest\WebApplication1\obj\Debug\WebApplication1.pdb
